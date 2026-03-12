@@ -1,5 +1,13 @@
 #!/bin/bash
 
+touch exemplo.txt
+touch documento.pdf
+touch foto.jpg
+touch imagem.png
+touch programa.c
+touch script.sh
+touch planilha.xls
+
 contador=0
 
 mkdir -p organizacao/textos
